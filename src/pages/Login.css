@@ -1,0 +1,16 @@
+.login-cont{
+    height: calc(100vh - 54px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.submit-btn{
+    all: unset;
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: rgb(68 114 196);
+    color: #fff;
+    border: 1px solid #232323;
+    cursor: pointer;
+}
